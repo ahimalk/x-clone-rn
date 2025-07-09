@@ -4,6 +4,8 @@ import { populate } from "dotenv";
 import User from "../models/user.model.js";
 import { getAuth } from "@clerk/express";
 import cloudinary from "../config/cloudinary.js";
+import Notification from "../models/notification.model.js";
+import Comment from "../models/comment.model.js";
 
 export const getPosts = asyncHandler(async (req, res) => {
   const posts = await Post.find();
