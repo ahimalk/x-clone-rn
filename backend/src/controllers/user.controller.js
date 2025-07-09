@@ -96,4 +96,8 @@ export const followUser = asyncHandler(async (req, res) => {
             type: "follow",
         });
     }
+
+    res.status(200).json({
+        message: isFollowing ? "User unfollowed successfully" : "user followed successfully",
+    });
 })
