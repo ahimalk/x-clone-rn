@@ -1,5 +1,11 @@
 ## 🪶 X-Clone — React Native App
 
+  ![React Native](https://img.shields.io/badge/react__native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
 A modern, minimal Twitter clone built with **React Native**, exploring real-world mobile app architecture, UI, and functionality.
 This project is designed for learning, experimenting, and demonstrating a full-stack social media app clone.
 
